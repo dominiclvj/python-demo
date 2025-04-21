@@ -38,7 +38,7 @@
             {
               "test": "test_comment",
               "name": "Comment out the print statement",
-              "description": "Use a comment to prevent the print function from writing 'Hello World!' to the Output window"
+              "description": "Use a comment to prevent the print function writing 'Hello World!' to the Output window"
             }
           ],
           "scripts": [
