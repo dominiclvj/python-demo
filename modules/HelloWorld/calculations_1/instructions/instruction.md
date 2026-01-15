@@ -7,7 +7,7 @@ code, pre {
 # Calculations, Part 1
 
 ## Learning
-So far you've learned about variables and how Python treats numbers. Variables are like named boxes for data. Numbers can be either integers (whole numbers) or floats (numbers with decimal points).
+So far you've learned about variables and how Python treats numbers. Variables are like named boxes for data.
 
 But programming isn’t just about storing data—it’s also about working with that data to do useful things. Python lets you use both simple and complex mathematical operations to perform calculations. You should be familiar with addition ```+```, subtraction ```-```, multiplication ```*```, and division ```/```.
 
